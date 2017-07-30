@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 0fc823a36081c5c48bde77968f6da087
+timeCreated: 1501328117
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Summer_Hat
+    21300002: Rain_Hat
+    21300004: Head
+    21300006: Winter_Hat
+    21300008: Summer_Body
+    21300010: Rain_Body
+    21300012: Winter_Body
+    21300014: Winter_Arm
+    21300016: Rain_Arm
+    21300018: Summer_Arm
+    21300020: Tail
+    21300022: Pyjamas
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summer_Hat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 500
+        height: 222
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.2115011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rain_Hat
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1526
+        width: 693
+        height: 454
+      alignment: 9
+      pivot: {x: 0.5528113, y: 0.25816178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 961
+        width: 1450
+        height: 1098
+      alignment: 9
+      pivot: {x: 0.6325108, y: 0.054188825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Winter_Hat
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 1503
+        width: 546
+        height: 465
+      alignment: 9
+      pivot: {x: 0.5502724, y: 0.20485342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Summer_Body
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 631
+        height: 1355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rain_Body
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 10
+        width: 541
+        height: 1371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Winter_Body
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 10
+        width: 542
+        height: 1371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Winter_Arm
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 43
+        width: 146
+        height: 582
+      alignment: 9
+      pivot: {x: 0.50000167, y: 0.9008822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rain_Arm
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 43
+        width: 145
+        height: 582
+      alignment: 9
+      pivot: {x: 0.53155136, y: 0.87730086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Summer_Arm
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 54
+        width: 146
+        height: 573
+      alignment: 9
+      pivot: {x: 0.50000167, y: 0.891211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tail
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 172
+        width: 550
+        height: 615
+      alignment: 9
+      pivot: {x: 0.9075706, y: 0.083435334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pyjamas
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 0
+        width: 536
+        height: 1365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
